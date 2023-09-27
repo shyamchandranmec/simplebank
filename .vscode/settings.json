@@ -1,5 +1,6 @@
 {
     "go.toolsEnvVars": {
         "GO111MODULE": "on"
-    }
+    },
+    "files.autoSave": "onFocusChange"
 }
